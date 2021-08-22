@@ -13,6 +13,7 @@ func home(c echo.Context) error {
 
 func main() {
 	fmt.Println("Hello World.")
+	fmt.Println("Test github.")
 
 	e := echo.New()
 
